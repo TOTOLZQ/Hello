@@ -6,8 +6,6 @@
 
 <img src="docs/images/banner.png" width="720" alt="Hello Welcome banner">
 
-<img src="docs/images/wave.gif" width="180" alt="wave">
-
 # Hello · 你好
 
 A friendly space to say hi, welcome every follower, and invite collaboration.

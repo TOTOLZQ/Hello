@@ -6,6 +6,8 @@
 
 <img src="docs/images/banner.png" width="720" alt="Hello Welcome banner">
 
+<img src="docs/images/wave.gif" width="180" alt="wave">
+
 # Hello · 你好
 
 A friendly space to say hi, welcome every follower, and invite collaboration.
@@ -22,6 +24,8 @@ A friendly space to say hi, welcome every follower, and invite collaboration.
 
 你好呀，欢迎来到这里！
 
+<img src="docs/images/stars.gif" width="320" alt="stars">
+
 感谢每一位关注我的朋友，是你们让开源社区变得温暖而有意义。无论你来自哪里、做什么技术，都欢迎在这里留下你的足迹。
 
 ### 欢迎合作
@@ -32,8 +36,16 @@ A friendly space to say hi, welcome every follower, and invite collaboration.
 
 ### 联系方式
 
-- GitHub: [@TOTOLZQ](https://github.com/TOTOLZQ)
-- 项目: [li-learn-micropython](https://github.com/TOTOLZQ/li-learn-micropython)
+| 平台 | 账号 |
+| :--- | :--- |
+| GitHub | [@TOTOLZQ](https://github.com/TOTOLZQ) |
+| 微信 / WeChat | `18943990291` |
+| 小红书 / Red Note | `18167114105` |
+
+### 我的项目
+
+- [li-learn-micropython](https://github.com/TOTOLZQ/li-learn-micropython) — Cardputer 1.1 MicroPython 学习项目
+- [li-answer-book-pub-](https://github.com/TOTOLZQ/li-answer-book-pub-) — Cardputer 多模式决策辅助应用
 
 <div align="right"><a href="#hello--你好">↑ 返回顶部</a></div>
 
@@ -42,6 +54,8 @@ A friendly space to say hi, welcome every follower, and invite collaboration.
 ## English
 
 Hi there, welcome!
+
+<img src="docs/images/stars.gif" width="320" alt="stars">
 
 Thank you to everyone who follows me — you make the open source community warm and meaningful. Wherever you are from and whatever tech you do, feel free to leave your footprint here.
 
@@ -53,7 +67,15 @@ Thank you to everyone who follows me — you make the open source community warm
 
 ### Contact
 
-- GitHub: [@TOTOLZQ](https://github.com/TOTOLZQ)
-- Project: [li-learn-micropython](https://github.com/TOTOLZQ/li-learn-micropython)
+| Platform | Account |
+| :--- | :--- |
+| GitHub | [@TOTOLZQ](https://github.com/TOTOLZQ) |
+| WeChat | `18943990291` |
+| Red Note (Xiaohongshu) | `18167114105` |
+
+### My Projects
+
+- [li-learn-micropython](https://github.com/TOTOLZQ/li-learn-micropython) — MicroPython learning project for Cardputer 1.1
+- [li-answer-book-pub-](https://github.com/TOTOLZQ/li-answer-book-pub-) — Multi-mode decision helper for Cardputer
 
 <div align="right"><a href="#hello--你好">↑ Back to top</a></div>
